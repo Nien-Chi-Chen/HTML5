@@ -1,0 +1,8 @@
+.cover{
+    color: rgb(255, 255, 255);
+    position: relative;
+    min-height: 350px;
+/*    background: url("metal.jpg") no-repeat scroll 0px 100% / cover transparent;*/
+    background: url("sit.jpg") no-repeat  center center  fixed;
+    background-size: 1663px 948px;
+}
